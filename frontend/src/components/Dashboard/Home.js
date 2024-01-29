@@ -24,9 +24,8 @@ const Home = () => {
       try {
         const response = await axios.get("/api/v1/data");
         console.log(response);
-        if (response.statusText === "OK") {
-          setData(response.data);
-        }
+
+        setData(response.data);
       } catch (error) {
         console.log(error);
       }
