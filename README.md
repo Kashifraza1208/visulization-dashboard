@@ -1,4 +1,10 @@
 # Project hosted on Render.com -----> https://visulization-dashboard.onrender.com/
+![Screenshot (572)](https://github.com/Kashifraza1208/visulization-dashboard/assets/60813449/df1e29ab-031c-41e9-9f7f-a7f55eceec26)
+![Screenshot (571)](https://github.com/Kashifraza1208/visulization-dashboard/assets/60813449/8d5e370a-9506-4b8b-8ba1-6c8a745ef981)
+![Screenshot (570)](https://github.com/Kashifraza1208/visulization-dashboard/assets/60813449/4014497f-417a-43f4-b2a1-36b3d35a68dc)
+![Screenshot (569)](https://github.com/Kashifraza1208/visulization-dashboard/assets/60813449/e31818c2-d738-48b4-b990-6efe7d8e72ac)
+
+
 
 # Getting Started with Create React App
 
