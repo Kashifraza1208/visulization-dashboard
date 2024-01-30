@@ -1,4 +1,4 @@
-#Project hosted on Render.com -----> https://visulization-dashboard.onrender.com/
+# Project hosted on Render.com -----> https://visulization-dashboard.onrender.com/
 
 # Getting Started with Create React App
 
